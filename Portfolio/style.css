@@ -263,6 +263,10 @@ section{
     height: 400px;
     margin: auto 0;
 }
+.hero-video{
+    background: #000;
+    object-fit: cover;
+}
 .section__text{
     align-self: center;
     text-align: center;
@@ -423,6 +427,12 @@ article .icon{
     margin: 1rem;
     color: black;
     border-color: rgb(163, 163, 163);
+}
+.project-desc{
+    font-size: 0.9rem;
+    color: rgb(85, 85, 85);
+    margin: 0 1rem 1rem;
+    text-align: left;
 }
 
 
